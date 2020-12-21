@@ -1,3 +1,3 @@
 #include <iostream>
 
-void something();
+int something(int a, int b);

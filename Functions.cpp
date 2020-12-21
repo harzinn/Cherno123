@@ -1,6 +1,8 @@
 #include "Header.h"
 
 
-void something() {
-  std::cout << "I'm king of the world" << std::endl;
+int something(int a, int b)
+{
+  // take input and multiply it
+  return a * b;
 }
